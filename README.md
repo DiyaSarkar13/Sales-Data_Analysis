@@ -1,9 +1,9 @@
 # Sales-Data_Analysis
 An interactive Power BI dashboard analyzing 3,500+ retail transactions to evaluate product performance, sales trends, discount impact, and regional distribution. Built dynamic KPIs and period comparison features to generate actionable business insights.
 
-# 📊 Sales Performance Analysis Dashboard – ElectroHub
+# Sales Performance Analysis Dashboard – ElectroHub
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an end-to-end Sales Performance Dashboard built using Power BI for ElectroHub, a multi-category retail business.
 
@@ -11,7 +11,7 @@ The dashboard provides comprehensive business insights across products, regions,
 
 ---
 
-## 🎯 Business Requirements Implemented
+##  Business Requirements Implemented
 
 The dashboard was designed to address the following analytical objectives:
 
@@ -47,7 +47,7 @@ The dashboard was designed to address the following analytical objectives:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Power Query (Data Cleaning & Transformation)
@@ -56,43 +56,43 @@ The dashboard was designed to address the following analytical objectives:
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
-### 🔹 KPI Overview
+###  KPI Overview
 - Total Sales: 129M+
 - Total Profit: 12M+
 - Total Quantity Sold: 7K+
 - Total Orders: 3510
 
-### 🔹 Product Performance Analysis
+###  Product Performance Analysis
 - Identified highest revenue-generating electronics products.
 - Highlighted low-performing SKUs affecting profitability.
 
-### 🔹 Time-Based Trend Analysis
+###  Time-Based Trend Analysis
 - Visualized multi-year sales patterns.
 - Identified seasonal fluctuations and peak sales periods.
 
-### 🔹 Profit vs Net Sales Relationship
+###  Profit vs Net Sales Relationship
 - Strong positive linear correlation observed.
 - Higher sales volumes consistently contribute to profit growth.
 
-### 🔹 Discount Strategy Insights
+###  Discount Strategy Insights
 - Weekend Flash Sales and Clearance Sales show higher discount averages.
 - Evaluated impact of promotional strategies on profitability.
 
-### 🔹 Geographic Insights
+###  Geographic Insights
 - Major revenue concentration in metropolitan cities.
 - Regional sales imbalance identified for strategic expansion.
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 (Add your exported screenshots here)
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 - Electronics category drives maximum revenue contribution.
 - Certain high-discount promotions reduce margin efficiency.
@@ -101,7 +101,7 @@ The dashboard was designed to address the following analytical objectives:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Forecasting using time-series modeling
 - Customer segmentation analysis
